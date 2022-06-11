@@ -13,9 +13,9 @@
 
 ## it’s time to install libraries
 
--conda install tensorflow
--conda install ujson==1.35
--pip install rasa
+- conda install tensorflow
+- conda install ujson==1.35
+- pip install rasa
 
 ## now you can start creating your chatbot.
 
