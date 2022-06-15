@@ -20,3 +20,15 @@
 ## now you can start creating your chatbot.
 
 - rasa init
+
+## for rasa server
+
+- rasa run --enable-api --cors "\*"
+
+## for python3 server
+
+- python -m http.server 8000
+
+## for python2 server
+
+- python -m SimpleHTTPServer 8000
